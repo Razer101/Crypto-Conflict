@@ -1,0 +1,6 @@
+{
+  "name": "Macro, Crypto & Conflict Snapshot",
+  "description": "Real-time geopolitical intelligence and market monitor tracking Bitcoin, Crude Oil, Gold fluctuations, and global conflict headlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
